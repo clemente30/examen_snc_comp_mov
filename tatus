@@ -1,0 +1,36 @@
+[33mcommit 43a4f6466476fcf1e9abdc932f0420b110ce7d0a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: clemente30 <sebastian.nuco@gmail.com>
+Date:   Sat Oct 19 23:02:39 2024 -0300
+
+    cambios
+
+[33mcommit 5086e33f1c6cd027b0099f36075b90629015c288[m
+Author: clemente30 <sebastian.nuco@gmail.com>
+Date:   Sat Oct 19 21:04:10 2024 -0300
+
+    modificaciones
+
+[33mcommit 6091d4c44f92653de37c5ce1d2a8b0a74487ad73[m
+Author: clemente30 <sebastian.nuco@gmail.com>
+Date:   Sat Oct 19 20:20:52 2024 -0300
+
+    Inicialización del proyecto personalizado
+
+[33mcommit 15a511fac8e90a19a82512548e00dc0cf1e1835c[m
+Merge: 2b60e0b 2503886
+Author: K-tyH <kharrisk2000@gmail.com>
+Date:   Sat Oct 19 16:33:24 2024 -0300
+
+    Merge branch 'master' of https://github.com/K-tyH/exam_kharris
+
+[33mcommit 2b60e0b5addc3535eba6af7b46540fadecc52f72[m
+Author: K-tyH <kharrisk2000@gmail.com>
+Date:   Sat Oct 19 14:32:11 2024 -0300
+
+    Primer commit
+
+[33mcommit 250388603e62a88f3316e7afa23a6f18ef3af55d[m[33m ([m[1;32mmain[m[33m)[m
+Author: K-tyH <kharrisk2000@gmail.com>
+Date:   Sat Oct 19 14:29:04 2024 -0300
+
+    Initial commit
